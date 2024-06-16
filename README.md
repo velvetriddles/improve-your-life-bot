@@ -18,7 +18,7 @@ Improve Your Life Bot is a Telegram bot that helps users track useful activities
 
 ### Installation
 
-1. Clone the repository:
+1. Fork && Clone the repository:
 
     ```sh
     git clone https://github.com/yourusername/improve-your-life-bot.git
